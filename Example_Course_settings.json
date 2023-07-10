@@ -1,0 +1,9 @@
+{
+  "course": "Cell Biology",
+  "field": "Cell Biology",
+  "exam_type": "text",
+  "out_file_prefix": "Example_Course",
+  "questions_file_name": "Example_Course_questions.txt",
+  "expert_remove_lists": false,
+  "reset_prompt_numbers": [10]
+}
